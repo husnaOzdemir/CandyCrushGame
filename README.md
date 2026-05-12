@@ -126,7 +126,7 @@ git clone https://github.com/husnaOzdemir/CandyCrushGame.git
 
 # 👩‍💻 Geliştirici
 
-**Hüsnâ Özdemir**
+**Hüsna Özdemir**
 
 Bilgisayar mühendisliği öğrencisi olarak yazılım geliştirme, veri odaklı projeler ve kullanıcı deneyimi odaklı uygulamalar üzerine çalışmalar yapmaktayım.
 
