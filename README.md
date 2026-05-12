@@ -108,29 +108,6 @@ CandyCrushGame
 │   └── Properties/
 ```
 
----
-
-# 🚀 Projeyi Çalıştırma
-
-1. Repository’yi klonlayın
-
-```bash
-git clone https://github.com/husnaOzdemir/CandyCrushGame.git
-```
-
-2. `Oyun.sln` dosyasını Visual Studio ile açın
-
-3. Projeyi çalıştırın
-
----
-
-# 👩‍💻 Geliştirici
-
-**Hüsna Özdemir**
-
-Bilgisayar mühendisliği öğrencisi olarak yazılım geliştirme, veri odaklı projeler ve kullanıcı deneyimi odaklı uygulamalar üzerine çalışmalar yapmaktayım.
-
----
 
 # ⭐ Not
 
